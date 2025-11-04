@@ -14,3 +14,11 @@ This repository is structured to provide quick access to:
 
 ---
 
+## Pentesting Phases
+1. Pre-engagement and planning
+2. Footprinting ➢ Reconnaissance (Information Gathering)
+3. Fingerprinting ➢ Scanning | Vulnerability Analysis | Enumeration
+4. Exploitation - Exploitation Techniques | Privilege escalation
+5. Post-exploitation - Assesing the impact of exploitation
+6. Persistence and Covering tracks
+7. Reporting
