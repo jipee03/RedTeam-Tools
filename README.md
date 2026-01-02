@@ -1,5 +1,16 @@
-# Red Team Operations Arsenal
----
+<p align="center">
+  <img width="300" height="300" src="tiopatinhas.png">
+</p>
+<!--![logo](tiopatinhas.png)-->
+
+# Red Team Tools Guide
+
+
+<!--[!NOTE]--> 
+> **_NOTE_**: 
+> This repository was build with the intend of serving as a guide for my Cybersecurity Master's final exercise Blue Teams vs Red Team.
+
+
 
 This repository is a collection of helpful information to act as a Red Teamer in the final attack-defense exercise. The primary goal here is to organize selected tools, tactics, and procedures to act efficiently and effectively during the engagement.
 
@@ -8,17 +19,23 @@ This repository is structured to provide quick access to:
 
 * **Tool Lists:** Curated lists of tools, categorized by the standard penetration testing phases.
 * **Cheat Sheets:** Quick-reference summaries of instructions and commands for executing key tools.
-* **Exercise Write-ups:** Examples and walkthroughs from our course exercises to use as playbooks.
+* **Exercise Write-ups:** Examples and walkthroughs from our course exercises to use as playbooks. 
 * **External References:** A collection of links to other useful pentesting resources, tools, and guides.
 
 
----
-
+<!-- Don't forget to alter the path when uploading to github or maybe it doesnt matter-->
 ## Pentesting Phases
-1. Pre-engagement and planning
-2. Footprinting ➢ Reconnaissance (Information Gathering)
-3. Fingerprinting ➢ Scanning | Vulnerability Analysis | Enumeration
-4. Exploitation - Exploitation Techniques | Privilege escalation
-5. Post-exploitation - Assesing the impact of exploitation
-6. Persistence and Covering tracks
-7. Reporting
+- [1. Pre-engagement and Planning](Pre-Engagement/Pre-Engagement.md)
+- [2. Footprinting](Footprinting/Footprinting.md)
+    - [2.1 Reconnaissance](Footprinting/Reconnaissance.md) 
+- [3. Fingerprinting](Fingerprinting/Fingerprinting.md)
+    - [3.1 Scanning](Fingerprinting/Scanning.md)
+    - [3.2 Vulnerability Analysis](Fingerprinting/Vulnerability-Analysis.md)
+    - [3.3 Enumeration](Fingerprinting/Enumeration.md)
+- [4. Exploitation](Exploitation/Exploitation.md)
+    - [4.1 Exploitation Techniques](Exploitation/Techniques.md)
+    - [4.2 Privilege Escalation](Exploitation/Privilege-Escalation.md)
+- [5. Post-exploitation](Post-exploitation/Post-Exploitation.md)
+    - [5.1 Assesing the impact of exploitation](Post-exploitation/Assessing-Impact.md)
+- [6. Persistence and Covering tracks](Covering-Tracks/Covering-Tracks.md)
+- [7. Reporting](Reporting/Reporting.md)
