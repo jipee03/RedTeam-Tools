@@ -8,7 +8,7 @@
 
 <!--[!NOTE]--> 
 > **_NOTE_**: 
-> This repository was build with the intend of serving as a guide for my Cybersecurity Master's final exercise Blue Teams vs Red Team.
+> This repository was build with the intent of serving as a guide for my Cybersecurity Master's final exercise Blue Teams vs Red Team.
 
 
 
@@ -26,10 +26,9 @@ This repository is structured to provide quick access to:
 
 <!-- Don't forget to alter the path when uploading to github or maybe it doesnt matter-->
 ## Table of Contents (Pentesting Phases)
-- [1. Pre-engagement and Planning](Pre-Engagement/Pre-Engagement.md)
-- [2. Footprinting](2-Footprinting/Footprinting.md)
-    - [OSINT Tools](2-Footprinting/2.1-OSINT.md)
-    - [Infrastructure Reconnaissance](2-Footprinting/2.2-Infrastructure-Recon.md)
+<!--- [1. Pre-engagement and Planning](Pre-Engagement/Pre-Engagement.md)-->
+- [Footprinting](/2-Footprinting/2.0-Footprinting.md)
+    - [Footprinting Tools](/2-Footprinting/2.1-Tools.md)
 - [3. Fingerprinting](3-Fingerprinting/3.0-Fingerprinting.md)
     - [3.1 Scanning](3-Fingerprinting/3.1-Scanning.md)
     - [3.2 Vulnerability Analysis](3-Fingerprinting/3.2-Vulnerability-Analysis.md)
