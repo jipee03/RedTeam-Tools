@@ -12,7 +12,7 @@
 
 
 
-This repository is a collection of helpful information to act as a Red Teamer in the final attack-defense exercise. The primary goal here is to organize selected tools, tactics, and procedures to act efficiently and effectively during the engagement.
+This repository is a collection of helpful information to act as a Red Teamer. The primary goal here is to organize selected tools, tactics, and procedures to act efficiently and effectively during the engagement between the different pentesting phases.
 
 
 This repository is structured to provide quick access to:
@@ -29,14 +29,18 @@ This repository is structured to provide quick access to:
 <!--- [1. Pre-engagement and Planning](Pre-Engagement/Pre-Engagement.md)-->
 - [Footprinting](/2-Footprinting/2.0-Footprinting.md)
     - [Footprinting Tools](/2-Footprinting/2.1-Tools.md)
-- [3. Fingerprinting](3-Fingerprinting/3.0-Fingerprinting.md)
-    - [3.1 Scanning](3-Fingerprinting/3.1-Scanning.md)
-    - [3.2 Vulnerability Analysis](3-Fingerprinting/3.2-Vulnerability-Analysis.md)
-    - [3.3 Enumeration](3-Fingerprinting/3.3-Enumeration.md)
-- [4. Exploitation](4-Exploitation/Exploitation.md)
-    - [4.1 Exploitation Techniques](Exploitation/Techniques.md)
-    - [4.2 Privilege Escalation](Exploitation/Privilege-Escalation.md)
-- [5. Post-exploitation](5-Post-exploitation/Post-Exploitation.md)
-    - [5.1 Assesing the impact of exploitation](Post-exploitation/Assessing-Impact.md)
-- [6. Persistence and Covering tracks](6-Covering-Tracks/Covering-Tracks.md)
-- [7. Reporting](Reporting/Reporting.md)
+- [Fingerprinting](3-Fingerprinting/3.0-Fingerprinting.md)
+    - [Scanning](3-Fingerprinting/3.1-Scanning.md)
+    - [Vulnerability Analysis](3-Fingerprinting/3.2-Vulnerability-Analysis.md)
+    - [Enumeration](3-Fingerprinting/3.3-Enumeration.md)
+- [Exploitation](4-Exploitation/Exploitation.md)
+    - [Client Side](./4-Exploitation/Client-Side.md)
+    - [Exploitating Vulnerabilities](./4-Exploitation/Exploiting_Vulnerabilities.md)
+    - [Malware Invasion](./4-Exploitation/Malware-Invasion.md)
+    - [Privilege Escalation](Exploitation/Privilege-Escalation.md)
+    - [Password Attacks](./4-Exploitation/Password_Attacks.md)
+    - [Web Exploitation](./4-Exploitation/Web_Exploitation.md)
+- [Post-exploitation](./5-Post-exploitation/5.0-Post-Exploitation.md)
+    - [Post-exploitation Tools](./5-Post-exploitation/5.1-Tools.md)
+<!--- [Persistence and Covering tracks](6-Covering-Tracks/Covering-Tracks.md)
+- [Reporting](Reporting/Reporting.md)-->
