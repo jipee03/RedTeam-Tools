@@ -8,9 +8,10 @@
 
 <!--[!NOTE]--> 
 > **_NOTE_**: 
-> This repository was build with the intent of serving as a guide for my Cybersecurity Master's final exercise Blue Teams vs Red Team.
+> * This repository was build with the intent of serving as a guide for my Cybersecurity Master's final exercise Blue Teams vs Red Team.
+> * Use the hiperlinks to navigate between the different pentesting phases
 
-
+<br>
 
 This repository is a collection of helpful information to act as a Red Teamer. The primary goal here is to organize selected tools, tactics, and procedures to act efficiently and effectively during the engagement between the different pentesting phases.
 
@@ -21,6 +22,7 @@ This repository is structured to provide quick access to:
 * **Cheat Sheets:** Quick-reference summaries of instructions and commands for executing key tools.
 * **Exercise Write-ups:** Examples and walkthroughs from our course exercises to use as playbooks. 
 * **External References:** A collection of links to other useful pentesting resources, tools, and guides.
+
 
 <br>
 
