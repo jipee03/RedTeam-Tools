@@ -53,9 +53,9 @@ Now that we understand the audience our report needs to speak to, let's take a l
 
 | Section | Target Audience | Description |
 | :--- | :--- | :--- |
-| **Summary** | Business & Security Stakeholders | This is the high-level view of the assessment. It explains what was tested, what was found, and why it matters — all in business terms. It often includes an *Executive Summary* (strictly business terms) and a *Findings and Recommendation* section to aid security stakeholders in prioritization. |
-| **Vulnerability Write-Ups** | Technical Stakeholders | This is the technical heart of the report. Each issue discovered during the test gets its own write-up, which will include details on the vulnerability, how it can be replicated, and the actions required for remediation. |
-| **Appendices** | Security Stakeholders | Supporting details that don’t fit in the main report (e.g., detailed testing scope, methodology, or artefacts). These help security stakeholders better understand the coverage achieved and the next steps required post-remediation. |
+| [**Summary**](#summary) | Business & Security Stakeholders | This is the high-level view of the assessment. It explains what was tested, what was found, and why it matters — all in business terms. It often includes an *Executive Summary* (strictly business terms) and a *Findings and Recommendation* section to aid security stakeholders in prioritization. |
+| [**Vulnerability Write-Ups**](#vulnerability-write-ups) | Technical Stakeholders | This is the technical heart of the report. Each issue discovered during the test gets its own write-up, which will include details on the vulnerability, how it can be replicated, and the actions required for remediation. |
+| [**Appendices**](#appendices) | Security Stakeholders | Supporting details that don’t fit in the main report (e.g., detailed testing scope, methodology, or artefacts). These help security stakeholders better understand the coverage achieved and the next steps required post-remediation. |
 
 <br>
 
