@@ -44,5 +44,6 @@ This repository is structured to provide quick access to:
     - [Web Exploitation](./4-Exploitation/Web_Exploitation.md)
 - [Post-exploitation](./5-Post-exploitation/5.0-Post-Exploitation.md)
     - [Post-exploitation Tools](./5-Post-exploitation/5.1-Tools.md)
-<!--- [Persistence and Covering tracks](6-Covering-Tracks/Covering-Tracks.md)
-- [Reporting](Reporting/Reporting.md)-->
+- [Reporting](./6-Reporting/Reporting.md)
+<!--- [Persistence and Covering tracks](6-Covering-Tracks/Covering-Tracks.md)-->
+
